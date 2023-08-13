@@ -50,9 +50,7 @@ Various models are trained for sentiment analysis:
 
 For each of the 16 experiments, the trained models are evaluated on the test dataset. The evaluation metrics include accuracy, precision, recall, and F1 score. The results are reported below in a tabular format.
 
-<center>
-    ![Results Table](./Results.png)
-</center>
+![Results Table](./Results.png)
 
 ## Conclusion
 
