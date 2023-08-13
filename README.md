@@ -50,26 +50,10 @@ Various models are trained for sentiment analysis:
 
 For each of the 16 experiments, the trained models are evaluated on the test dataset. The evaluation metrics include accuracy, precision, recall, and F1 score. The results are reported below in a tabular format.
 
-![Results Table](./Results.png)
+<center>
+    ![Results Table](./Results.png)
+</center>
 
 ## Conclusion
 
 This project demonstrates the process of sentiment analysis on the Sentiment140 dataset using various machine learning models and word embeddings. By comparing the performance metrics of different experiments, we aim to identify the best-performing model for sentiment classification.
-
-## How to Use
-
-To replicate and understand the work, follow these steps:
-
-1. Download the Sentiment140 dataset from the provided Kaggle link.
-2. Preprocess the data by removing stop words and punctuation.
-3. Split the dataset into training and testing sets with a 30-70 ratio.
-4. Train the specified models with different configurations as described.
-5. Evaluate each model on the test dataset and record the performance metrics.
-6. Analyze the results and identify the best-performing model.
-7. Modify and customize the code as needed for your own projects.
-
-Remember to ensure that you comprehend each aspect of the code and can explain the rationale behind each decision made in the project.
-
-For any questions or clarifications, feel free to reach out via GitHub issues or email.
-
-_Note: This project is based on a hypothetical assignment and serves as an example readme file._
